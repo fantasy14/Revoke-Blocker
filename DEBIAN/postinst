@@ -1,0 +1,4 @@
+#!/bin/bash
+printf '127.0.0.1 oscp.apple.com' >> /etc/hosts
+echo 'Reboot'
+echo 'Reboot'
