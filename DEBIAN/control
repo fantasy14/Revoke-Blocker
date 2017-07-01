@@ -1,0 +1,8 @@
+Package: com.pwn20wnd.revokeblocker
+Name: Revoke Blocker
+Version: 1.0
+Architecture: iphoneos-arm
+Description: Prevent certificates from getting revoked
+Maintainer: Pwn20wnd
+Author: Pwn20wnd
+Section: System
